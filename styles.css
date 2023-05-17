@@ -17,7 +17,7 @@
 #body{
 	background-color:#f5f5f5;
 }
-#latest-news-section{
+.latest-news-section{
 	 border-radius: 30px;
 	background-color: white;
 	position:absolute;
